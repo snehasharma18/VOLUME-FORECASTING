@@ -3,6 +3,7 @@ scipy==0.15.1
 scikit-learn>=0.15.1
 matplotlib==3.7.2
 pandas==1.5.3
+scipy
 streamlit
 prophet==1.1.4
 plotly==5.15.0
